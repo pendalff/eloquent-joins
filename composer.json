@@ -1,5 +1,5 @@
 {
-    "name": "tjbp/eloquent-joins",
+    "name": "pendalff/eloquent-joins",
     "description": "Support for joins at the relationship level in Laravel's Eloquent ORM.",
     "keywords": ["laravel", "eloquent", "join"],
     "license": "GPL-3.0",
